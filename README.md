@@ -1,2 +1,2 @@
 # CadastroSeries
-Cadastrar séries.
+Cadastrar suas séries de interesse.
